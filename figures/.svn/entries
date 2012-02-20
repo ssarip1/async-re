@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2867"
+   name=""
+   committed-date="2010-07-28T20:59:59.195961Z"
+   url="https://svn.cct.lsu.edu/repos/saga-projects/applications/async-re/figures"
+   last-author="athota1"
+   kind="dir"
+   uuid="85a705f7-0950-0410-9dcd-f733de5e93f6"
+   revision="5769"/>
+<entry
+   committed-rev="2867"
+   name="cent_control.pdf"
+   text-time="2011-11-09T03:12:27.000000Z"
+   committed-date="2010-07-28T20:59:59.195961Z"
+   checksum="b2f93021c65074e744dfee592dd68906"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:27.000000Z"/>
+<entry
+   committed-rev="2867"
+   name="Centralized control flow.graffle"
+   text-time="2011-11-09T03:12:27.000000Z"
+   committed-date="2010-07-28T20:59:59.195961Z"
+   checksum="bb13f5758ef8205d3068aee8a59909ec"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:27.000000Z"/>
+<entry
+   committed-rev="2867"
+   name="dec_control.pdf"
+   text-time="2011-11-09T03:12:27.000000Z"
+   committed-date="2010-07-28T20:59:59.195961Z"
+   checksum="955d38b6e98c74c158173a4e26e8e4a8"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:27.000000Z"/>
+<entry
+   committed-rev="2626"
+   name="async_repex_architecture.pdf"
+   text-time="2011-11-09T03:12:27.000000Z"
+   committed-date="2010-05-02T20:09:39.588407Z"
+   checksum="54a753eabb131567bad00d957cbe6e34"
+   last-author="sjha"
+   kind="file"
+   prop-time="2011-11-09T03:12:27.000000Z"/>
+<entry
+   committed-rev="2867"
+   name="Decentralized control flow.graffle"
+   text-time="2011-11-09T03:12:27.000000Z"
+   committed-date="2010-07-28T20:59:59.195961Z"
+   checksum="4fcaff8ed7c471025f7cc08157170d4f"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:27.000000Z"/>
+<entry
+   committed-rev="2742"
+   name="centralized_architecture.pdf"
+   text-time="2011-11-09T03:12:27.000000Z"
+   committed-date="2010-06-21T17:14:34.247067Z"
+   checksum="f858aac0ed5a47581d94478a138decec"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:27.000000Z"/>
+</wc-entries>

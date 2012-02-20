@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2963"
+   name=""
+   committed-date="2010-09-12T13:25:06.016795Z"
+   url="https://svn.cct.lsu.edu/repos/saga-projects/applications/async-re/data"
+   last-author="athota1"
+   kind="dir"
+   uuid="85a705f7-0950-0410-9dcd-f733de5e93f6"
+   revision="5769"/>
+<entry
+   committed-rev="2963"
+   name="RE.pptx"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-12T13:25:06.016795Z"
+   checksum="d755a52a8ed12652b233cc07d9808251"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2962"
+   name="1BJ_comparison.tiff"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-12T13:24:50.699701Z"
+   checksum="cca5fabe26b179219b23b7aa95f6d467"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+</wc-entries>

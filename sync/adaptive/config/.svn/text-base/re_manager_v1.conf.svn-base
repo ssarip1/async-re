@@ -1,0 +1,15 @@
+remote_host : qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org 
+number_glideins_per_host : 2
+replica_count :  16
+remote_host_local_scheduler :  pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs pbs
+workingdirectory : /work/athota1/REMDgManager/adaptive/1 /work/athota1/REMDgManager/adaptive/2 /work/athota1/REMDgManager/adaptive/3 /work/athota1/REMDgManager/adaptive/4 /work/athota1/REMDgManager/adaptive/5 /work/athota1/REMDgManager/adaptive/6 /work/athota1/REMDgManager/adaptive/7 /work/athota1/REMDgManager/adaptive/8 /work/athota1/REMDgManager/adaptive/9 /work/athota1/REMDgManager/adaptive/10 /work/athota1/REMDgManager/adaptive/11 /work/athota1/REMDgManager/adaptive/12 /work/athota1/REMDgManager/adaptive/13 /work/athota1/REMDgManager/adaptive/14 /work/athota1/REMDgManager/adaptive/15 /work/athota1/REMDgManager/adaptive/16
+executable : /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2
+queue :  workq workq workq workq workq workq workq workq workq workq workq workq workq workq workq workq
+project : loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s
+arguments :  NPT.conf 
+totalcputime : 180
+numberofprocesses : 16
+exchange_count  : 16
+stage_in_file : 310K-init.coor  310K-init.xsc  NPT.conf  parm99bs0_all.prm  sbox_init.pdb  sbox_init.psf
+temperature :  300 310 320 330 340 350 360 370 380 390 400 410 420 430 440 450
+advert_host : fortytwo.cct.lsu.edu

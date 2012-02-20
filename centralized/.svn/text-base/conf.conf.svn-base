@@ -1,0 +1,42 @@
+[COMMON]
+BIGJOB_SIZE = 2048
+NUMBER_EXCHANGES = 512
+NUMBER_BIGJOBS= 1
+NUMBER_REPLICAS = 128
+CPR = 16
+advert_host = advert.cct.lsu.edu
+WALLTIME = 180
+RPB = 128
+
+[HOST]
+HOST = qb1.loni.org
+QUEUE = workq
+#GRIDFTP = gridftp.ranger.tacc.teragrid.org:2811
+#dirs for replicas
+WORK_DIR = /work/athota1/new_bigjob/bigjob/
+REPLICA_DIR = /work/athota1/new_bigjob/bigjob/NAMD_files/
+EXE = /work/athota1/new_bigjob/bigjob/namd2
+
+[REMOTE1]
+EXE = /work/01297/athota1/new_bigjob/bigjob/namd2
+REMOTE = gatekeeper.ranger.tacc.teragrid.org:2119
+QUEUE = development
+GRIDFTP = gatekeeper.ranger.tacc.teragrid.org
+#dirs for replicas
+WORK_DIR = /work/01297/athota1/new_bigjob/bigjob/
+REPLICA_DIR = /work/01297/athota1/new_bigjob/bigjob/NAMD_files/
+
+[REMOTE2]
+REMOTE = "qb1.loni.org"
+#dirs for replicas
+WORK_DIR = "/work/athota1/new_bigjob/bigjob/"
+REPLICA_DIR = "/work/athota1/new_bigjob/bigjob/NAMD_files/"
+
+[REMOTE3]
+REMOTE = "painter1.loni.org"
+#dirs for replicas
+WORK_DIR = "/work/athota1/new_bigjob/bigjob/"
+REPLICA_DIR = "/work/athota1/new_bigjob/bigjob/NAMD_files/"
+
+[REMOTE4]
+

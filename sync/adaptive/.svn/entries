@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2988"
+   name=""
+   committed-date="2010-09-20T23:16:20.338237Z"
+   url="https://svn.cct.lsu.edu/repos/saga-projects/applications/async-re/sync/adaptive"
+   last-author="athota1"
+   kind="dir"
+   uuid="85a705f7-0950-0410-9dcd-f733de5e93f6"
+   revision="5769"/>
+<entry
+   committed-rev="2988"
+   name="310K-init.coor"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="8b26cbadb3939e47db48748a12497710"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="sbox_init.pdb"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="522edbe0de007e5eec207c85df1aea09"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:29.000000Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   committed-rev="2988"
+   name="NPT.conf"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="9e8746769f1d10c1c9e977505cc9ba67"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:29.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="sbox_init.psf"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="dccc2fb7d1967253c5c0d0b321619803"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:30.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="advert_job.py"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="e261a34c0134367c2c35119d332869c7"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:30.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="310K-init.xsc"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="e599c32658290e412ae49fed8c37337d"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:30.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="parm99bs0_all.prm"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="51c01f2b82ea0ab09bc035f6ae5ec4ad"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:30.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="REMD_Manager-v2.1.py"
+   text-time="2011-11-09T03:12:30.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="0b4102e4c65abf07f8b304ba307b0650"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:30.000000Z"/>
+</wc-entries>

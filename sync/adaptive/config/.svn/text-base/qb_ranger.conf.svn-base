@@ -1,0 +1,15 @@
+remote_host : gatekeeper.ranger.tacc.teragrid.org:2119 gatekeeper.ranger.tacc.teragrid.org:2119 gatekeeper.ranger.tacc.teragrid.org:2119 gatekeeper.ranger.tacc.teragrid.org:2119 qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org
+gridftp_host : gridftp.ranger.tacc.teragrid.org:2811 gridftp.ranger.tacc.teragrid.org:2811 gridftp.ranger.tacc.teragrid.org:2811 gridftp.ranger.tacc.teragrid.org:2811 qb1.loni.org qb1.loni.org qb1.loni.org qb1.loni.org
+replica_count :  8
+remote_host_local_scheduler : sge sge sge sge pbs pbs pbs pbs
+workingdirectory : /work/01297/athota1/REMDgManager/adaptive/1 /work/01297/athota1/REMDgManager/adaptive/2 /work/01297/athota1/REMDgManager/adaptive/3 /work/01297/athota1/REMDgManager/adaptive/4 /work/athota1/REMDgManager/adaptive/5 /work/athota1/REMDgManager/adaptive/6 /work/athota1/REMDgManager/adaptive/7 /work/athota1/REMDgManager/adaptive/8
+executable : /work/01297/athota1/REMDgManager/adaptive/namd2 /work/01297/athota1/REMDgManager/adaptive/namd2 /work/01297/athota1/REMDgManager/adaptive/namd2 /work/01297/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2 /work/athota1/REMDgManager/adaptive/namd2
+queue :  development development development development workq workq workq workq
+project : TG-MCB090174 TG-MCB090174 TG-MCB090174 TG-MCB090174 loni_ribo10_s loni_ribo10_s loni_ribo10_s loni_ribo10_s 
+arguments :  NPT.conf
+totalcputime : 2
+numberofprocesses : 16
+exchange_count  : 16
+stage_in_file : 310K-init.coor  310K-init.xsc  NPT.conf  parm99bs0_all.prm  sbox_init.pdb  sbox_init.psf
+temperature : 300 310 320 330 340 350 360 370 380 390 400 410 420 430 440 450
+advert_host : fortytwo.cct.lsu.edu

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2988"
+   name=""
+   committed-date="2010-09-20T23:16:20.338237Z"
+   url="https://svn.cct.lsu.edu/repos/saga-projects/applications/async-re/sync/src/REMDgManager/adaptive"
+   last-author="athota1"
+   kind="dir"
+   uuid="85a705f7-0950-0410-9dcd-f733de5e93f6"
+   revision="5769"/>
+<entry
+   committed-rev="2988"
+   name="advert_launcher.sh"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="8900e511b567e4e192aa267f1b4cd021"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="advert_launcher.conf.template"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="1b8532caeb570f592b2e072c7d00e051"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="advert_job.py"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="982ef88cef4d777779ec1f74be07c53f"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="advert_launcher.sh.template"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="ccd41e8c1f4d9c509048a3b4c6f6ca17"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="advert_launcher.conf"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="1b8532caeb570f592b2e072c7d00e051"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+<entry
+   committed-rev="2988"
+   name="advert_launcher.py"
+   text-time="2011-11-09T03:12:28.000000Z"
+   committed-date="2010-09-20T23:16:20.338237Z"
+   checksum="97be42906950d74202b01078a5a8b1b3"
+   last-author="athota1"
+   kind="file"
+   prop-time="2011-11-09T03:12:28.000000Z"/>
+</wc-entries>
